@@ -3,7 +3,7 @@
     <title>Boonies Supply Co.</title>
     <link href="https://booniessupplyco.com/feed.xml" rel="self" />
     <link href="https://booniessupplyco.com" />
-    <updated>2025-05-06T01:53:11-06:00</updated>
+    <updated>2025-05-06T03:23:20-06:00</updated>
     <author>
         <name>chicken</name>
     </author>
@@ -16,6 +16,7 @@
         </author>
         <link href="https://booniessupplyco.com/is-this-thing-on.html"/>
         <id>https://booniessupplyco.com/is-this-thing-on.html</id>
+            <category term="misc"/>
 
         <updated>2025-05-06T01:53:11-06:00</updated>
             <summary>
